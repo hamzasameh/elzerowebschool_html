@@ -1,2 +1,2 @@
 # elzerowebschool_html
-Elzero web school learning project
+This is my Elzero web school learning project
